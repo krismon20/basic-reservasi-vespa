@@ -1,0 +1,51 @@
+/* tampilres.css */
+body {
+  background-color: #080808; /* Warna latar belakang hitam */
+  color: white; /* Warna teks putih */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: white; /* Warna teks tombol putih */
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #ff9900; /* Warna teks tombol putih yang sedikit lebih terang saat dihover */
+}
+
+font[size="7"] {
+  font-size: 28px; /* Ukuran font sesuai dengan preferensi */
+}
+
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid white; /* Garis putih di sekitar sel tabel */
+}
+
+th {
+  background-color: #080808; /* Warna latar belakang header tabel */
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #444444; /* Warna latar belakang baris genap */
+}
+
+tr:nth-child(odd) {
+  background-color: #333333; /* Warna latar belakang baris ganjil */
+}
+
+tr:hover {
+  background-color: #555555; /* Warna latar belakang saat baris dihover */
+}

@@ -1,0 +1,23 @@
+Roles (PRABU TEAM)
+1. KRISNOVER ARITONANG - 10122353
+	A)Membuat/Pengembang WEB
+	B)Membuat Database
+	C)Membuat CRUD
+	D)Debuging
+2.MUHAMMAD INSANI IMAM UTOMO - 10122352
+	A)Membuat konsep dan Tema
+	B)Pengembang WEB
+	C)Mencari Referensi
+3.MOHAMAD TRIO SOLEHUDIN - 10122357
+	A)Memberikan Dasar Konsep
+	B)Mencari Referensi
+	C)Mencari Studi Kasus
+	D)Membantu menentukan Konsep Dsign WEB
+4.RIFQI KHOERUL ASSIDIK - 10122351
+	A)Mencari gambar - gambar Tentang Vespa
+	B)Membuat Logo
+	C)Membantu Mencari Konsep
+	D)Dan Memberikan beberapa Referensi
+
+	
+
